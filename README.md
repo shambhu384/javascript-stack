@@ -1,1 +1,1 @@
-# Javascript Stack [ MongoDB, Express, React , NodeJs ]
+# Javascript Stack [ MongoDB, Express, React, NodeJs ]
